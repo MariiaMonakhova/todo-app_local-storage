@@ -1,1 +1,2 @@
 # todo-app_local-storage
+This app was created by basic model of Todo App. You can create todo, toggle todo to complete or undo completing, delete todo, edit todo by doubleclick on the todo that you want to edit, cancel editing by Esc key, finish editing by Enter key or by clicking on a free space (empty edited todos will be deleted). In addition, there is a posibility to toggle all todos with the arrow that is located on the left from input.
